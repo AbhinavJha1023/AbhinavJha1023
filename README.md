@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav R Jha</h1>
 <h3 align="center">Quant Trader And AWS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavjha1023&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavjha1023" /> </p>
-
 - 🌱 I’m currently learning Finance And AWS Fundamentals **Forward, Futures, EC2, Lambda And More**
 
 - 💬 Ask me about **ARCH, GARCH, Scalability, Security Groups And More**
