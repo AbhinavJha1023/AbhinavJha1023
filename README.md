@@ -1,12 +1,12 @@
 <img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Abhinav R Jha</h1>
-<h3 align="center">Quant Trader And Developer</h3>
+<h3 align="center">Quant Trader And AWS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavjha1023&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavjha1023" /> </p>
 
-- 🌱 I’m currently learning Finance And Financial Derivatives **Forward, Futures, Options And Swaps**
+- 🌱 I’m currently learning Finance And AWS Fundamentals **Forward, Futures, EC2, Lambda And More**
 
-- 💬 Ask me about **ARCH, GARCH, AR, MA, ARMA, ARIMA and Other Financial Stuffs**
+- 💬 Ask me about **ARCH, GARCH, Scalability, Security Groups And More**
 
 - 📫 How to reach me **jrabhinavv@gmail.com**
 
