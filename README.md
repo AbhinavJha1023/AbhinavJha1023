@@ -65,6 +65,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AbhinavJha1023/AbhinavJha1023/output/snake.svg" alt="Snake animation" />
-
 ###
