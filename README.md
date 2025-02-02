@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Abhinav This Side<br>From IIIT Nagpur</h6>
+<h3 align="center">Abhinav This Side<br>From IIIT Nagpur</h3>
 
 ###
 
